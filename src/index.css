@@ -26,3 +26,8 @@ code {
 .editor :global(.public-DraftEditor-content) {
   min-height: 140px;
 }
+
+.row {
+  width: 500px;
+  margin: auto;
+}
